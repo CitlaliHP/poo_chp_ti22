@@ -5,7 +5,7 @@
     Descripción:
     Área y perímetro de triángulos
 """
-print("ÁREA DEL TRIÁNGULO")
+print("Área y perímetro de un triángulo")
 b = int(input("Ingrese el valor de la base:"))
 h = int(input("Ingrese el valor de la altura :"))
 l1= int(input("Ingrese el valor de uno de los lados: "))
