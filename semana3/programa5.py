@@ -10,9 +10,9 @@ b = int(input("Ingrese el valor de la base:"))
 h = int(input("Ingrese el valor de la altura :"))
 l1= int(input("Ingrese el valor de uno de los lados: "))
 l2= int(input("Ingrese el valor del lado restante: "))
-##ÁREA
+##Área
 area = (b*h)/2
-##PARA SACAR EL PERIMETRO
+##Perímetro
 perimetro = b + l1+ l2
 print()
 print("Perímetro: ", perimetro)
