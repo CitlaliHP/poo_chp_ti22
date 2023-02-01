@@ -16,4 +16,4 @@ area = (b*h)/2
 perimetro = b + l1+ l2
 print()
 print("Perímetro: ", perimetro)
-print("Área : ", area)
+print("Área:", area)
