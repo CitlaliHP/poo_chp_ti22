@@ -8,6 +8,7 @@
     2.-Cuadrado
 """
 ##Área y perímetro de un círculo
+##PI es una constante
 PI=3.1416
 print('Primero vamos a calcular el área y perímetro de un círculo')
 print()
