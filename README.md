@@ -13,3 +13,7 @@
 |7|programa7.py|Comparación 2 números enteros e imprimir el número mayor|
 |8|programa8.py|Condición if|
 |9|programa9.py|clases|
+|10|programa10.py|clases|
+|11|programa11.py|clases|
+|12|programa12.py|Clases|
+|13|programa13.py|Clases|

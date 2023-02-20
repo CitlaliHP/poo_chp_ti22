@@ -1,3 +1,10 @@
+"""
+    Programa10
+    Nombre: Citlali Hernandez Perez
+    Fecha: 13/02/2023
+    Descripción:
+    Clases 'alumno'
+"""
 class Alumno: ##crea la clase  alumno
     __nombre = None
     __matricula = None
