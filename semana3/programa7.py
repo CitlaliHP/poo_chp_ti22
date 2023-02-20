@@ -8,7 +8,7 @@
 print('Programa para imprimir un número mayor')
 print()
 ##datos de  entrada 
-numero1 = int(input('Ingrese el primer valor:'))
+numero1 = int(input('Ingrese el primer valor:')) #te pide i
 numero2 = int(input('Ingrese el segundo valor:'))
 print()
 ##Estructura de control
@@ -16,5 +16,7 @@ print()
 if numero1 > numero2:
     print(numero1)
 ##si no es asi va a imprimir el numero 2
+elif numero2 > numero1:
+    print(numero2)
 else:
-  print(numero2)
+    print(None)
