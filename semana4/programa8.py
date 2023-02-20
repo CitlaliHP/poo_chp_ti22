@@ -25,4 +25,3 @@ if n1 > n2:
     print(n1)
 if n1 == n2:
     print(None)
-##Opción 3
