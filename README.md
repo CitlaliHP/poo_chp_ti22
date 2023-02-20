@@ -12,3 +12,4 @@
 |6|programa6.py|Calcular el área y perímetro de un círculo y un cuadrado|
 |7|programa7.py|Comparación 2 números enteros e imprimir el número mayor|
 |8|programa8.py|Condición if|
+|9|programa9.py|clases|
