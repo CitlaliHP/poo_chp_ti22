@@ -5,7 +5,7 @@
     Descripción:
     Clases 'persona'
 """
-class Persona: ##crea la clase Profesor que hereda de la clase Persona
+class Persona: ##crea la clase persona
     __email = None
     __nombre = None
     def __init__(self):##constructor de la clase
