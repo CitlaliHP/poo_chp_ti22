@@ -1,13 +1,22 @@
-##01/02/2023
-numero1 = 5
-numero1 += 5
-numero1 -=5
-numero1 *= 2
-numero1 /= 2
-numero1 %= 2
-numero1 //= 2
+class Productos:
 
-if 8 in [0,3,2,5]:
-    print('hola')
-else:
-    print('adios')
+  def insertarProductos(self,sku:str,nombre:str,unidad:str)-> bool:
+    print(f"Insertar: {sku},{nombre},{unidad}")
+    return True
+    
+  def actualizarProducto(self)->bool:
+    sku = input("SKU: ")
+    nombre = input("Nombre: ")
+    unidad = input("Unidad: ")
+    print(f"Actualizar: {sku},{nombre},{unidad}")
+    return True 
+
+productos  = Productos()
+  
+sku = input("SKU: ")
+nombre = input("Nombre: ")
+unidad = input("Unidad: ")
+productos.insertarProductos(sku,nombre,unidad)
+
+productos.actualizarProducto()
+  

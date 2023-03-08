@@ -12,4 +12,4 @@ class Alumno(Persona): ##crea la clase Alumno que hereda de la clase Persona
         super().__init__() ##llama al constructor de la clase
         print("Alummno") ##imprime el texto "Alumno"
 
-objeto_alumno = Alumno() ##crea un ovjeto de la clase Alumno
+objeto_alumno = Alumno() ##crea un objeto de la clase Alumno
